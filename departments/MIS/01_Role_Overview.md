@@ -80,6 +80,7 @@ Technical Skills
 - Google Sheets
 - Google Drive
 - App Sheet
+- Google Sript
 - Looker Studio
 - Data Analysis
 - Report Preparation
