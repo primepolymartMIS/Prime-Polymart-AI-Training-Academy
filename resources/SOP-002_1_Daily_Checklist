@@ -1,3 +1,4 @@
+```markdown
 # SOP-002: Periodic Task Management System
 
 **Document Owner:** Prime MIS  
@@ -13,15 +14,15 @@
 
 # 1. Purpose
 
-This SOP explains how to configure, assign, monitor, and review recurring business tasks that occur on a Weekly, Monthly, Quarterly, Half-Yearly, or Yearly basis.
+This Standard Operating Procedure (SOP) explains how to configure, assign, monitor, and review recurring business tasks that occur on a Weekly, Monthly, Quarterly, Half-Yearly, or Yearly basis.
 
-This system is maintained separately from the Daily Checklist System to reduce sheet size, improve performance, and simplify task management.
+The Periodic Task Management System is maintained separately from the Daily Checklist System to improve performance, reduce spreadsheet size, and simplify recurring task management.
 
 ---
 
 # 2. Scope
 
-This SOP applies to all recurring operational and management tasks that are not performed daily.
+This SOP applies to all recurring operational, management, and compliance activities that are not performed daily.
 
 Examples include:
 
@@ -30,13 +31,16 @@ Examples include:
 - Quarterly Reviews
 - Half-Yearly Reviews
 - Annual Activities
+- Compliance Activities
+- Management Reviews
+- Stock Audits
 
 ---
 
 # 3. Supported Task Frequencies
 
 | Frequency | Code | Example |
-|------------|------|---------------------------|
+|-----------|------|------------------------------|
 | Weekly | W | Weekly Sales Summary |
 | Monthly | M | Monthly Sales Report |
 | Quarterly | Q | Quarterly Business Review |
@@ -47,31 +51,31 @@ Examples include:
 
 # 4. Accessing the File
 
-Open the file using any of the following methods:
+Open the system using any of the following:
 
 - Google Drive
 - Google Site
 - AppSheet
 
-File Name:
+**File Name**
 
-**Periodic Task Management System**
+> **Periodic Task Management System**
 
 ---
 
 # 5. One-Time Setup
 
-The initial setup is identical to SOP-001.
+The initial setup process is identical to **SOP-001 – Daily Checklist System**.
 
-Verify the following before using the system:
+Before using this system, verify the following:
 
-- Script Authorization Completed
-- Week List Updated
-- Working Day Calendar Updated
-- Holiday List Updated
-- Doer List Updated
+- Script Authorization completed
+- Week List updated
+- Working Day Calendar updated
+- Holiday List updated
+- Employee/Doer List updated
 
-If any of these are incomplete, complete SOP-001 before proceeding.
+If any setup item is incomplete, complete SOP-001 before proceeding.
 
 ---
 
@@ -85,22 +89,20 @@ Navigate to the **Task List** sheet.
 
 ## Step 2 – Enter Task Details
 
-Complete the following fields:
+Fill in all required fields:
 
 - Task Name
 - Doer Name
 - Department
 - Frequency
 - Planned Date
-- Remarks (if required)
+- Remarks (Optional)
 
 ---
 
-## Step 3 – Select Frequency
+## Step 3 – Select Task Frequency
 
 Choose the appropriate frequency.
-
-Examples:
 
 | Task | Frequency |
 |------|-----------|
@@ -112,24 +114,26 @@ Examples:
 
 ---
 
-## Step 4 – Submit
+## Step 4 – Submit Task
 
 Click the **Submit** button.
 
-Verify the Status changes to **Sent**.
+After submission, verify that the task status changes to:
+
+**Status = Sent**
 
 ---
 
 # 7. Verification
 
-Open the **Master** sheet and confirm:
+Open the **Master** sheet and confirm the following:
 
-- Task Created Successfully
-- Correct Doer Assigned
-- Correct Department
-- Correct Frequency
-- Correct Planned Date
-- No Formula Errors
+- Task created successfully
+- Correct employee assigned
+- Correct department selected
+- Correct frequency assigned
+- Correct planned date generated
+- No formula or script errors
 
 ---
 
@@ -137,7 +141,7 @@ Open the **Master** sheet and confirm:
 
 Open the **Dashboard** sheet.
 
-Verify:
+Verify the following metrics:
 
 - Pending Tasks
 - Completed Tasks
@@ -146,17 +150,19 @@ Verify:
 - Employee Performance
 - Overdue Tasks
 
+Ensure dashboard values match the Master sheet.
+
 ---
 
 # 9. Common Errors
 
 | Problem | Possible Cause | Recommended Solution |
 |----------|----------------|----------------------|
-| Wrong Frequency Selected | Incorrect Code | Update Frequency |
-| Duplicate Task | Submit Clicked Twice | Delete Duplicate Record |
-| Task Missing | Script Failure | Re-submit Task |
-| Dashboard Incorrect | Formula Deleted | Restore Formula |
-| Incorrect Due Date | Calendar Issue | Update Calendar |
+| Wrong Frequency Selected | Incorrect frequency code | Update the frequency |
+| Duplicate Task | Submit button clicked twice | Delete duplicate record |
+| Task Missing | Script execution failed | Re-submit the task |
+| Dashboard Incorrect | Formula deleted or modified | Restore dashboard formulas |
+| Incorrect Due Date | Calendar configuration issue | Update Working Day Calendar |
 
 ---
 
@@ -165,12 +171,12 @@ Verify:
 If a recurring task is not generated:
 
 1. Verify Script Authorization.
-2. Check Week List.
-3. Verify Working Day Calendar.
-4. Check Holiday List.
-5. Confirm Frequency Code.
-6. Re-submit the Task.
-7. Contact Senior MIS Executive if unresolved.
+2. Check the Week List.
+3. Verify the Working Day Calendar.
+4. Review the Holiday List.
+5. Confirm the selected Frequency Code.
+6. Re-submit the task.
+7. Contact the Senior MIS Executive if the issue remains unresolved.
 
 ---
 
@@ -178,12 +184,12 @@ If a recurring task is not generated:
 
 Before closing the reporting period, verify:
 
-- [ ] All recurring tasks created.
-- [ ] Dashboard updated.
-- [ ] Pending tasks reviewed.
-- [ ] No duplicate tasks.
-- [ ] Reports generated successfully.
-- [ ] Management informed where applicable.
+- [ ] All recurring tasks created
+- [ ] Dashboard updated successfully
+- [ ] Pending tasks reviewed
+- [ ] No duplicate tasks
+- [ ] Reports generated successfully
+- [ ] Management informed where applicable
 
 ---
 
@@ -191,12 +197,12 @@ Before closing the reporting period, verify:
 
 After completing this SOP, the trainee should be able to:
 
-- Understand the Periodic Task Management System.
-- Create recurring tasks correctly.
-- Select the correct frequency.
-- Verify task generation.
-- Monitor completion status.
-- Resolve common issues.
+- Understand the Periodic Task Management System
+- Create recurring tasks correctly
+- Select the appropriate task frequency
+- Verify successful task generation
+- Monitor completion status
+- Resolve common issues independently
 
 ---
 
@@ -205,26 +211,27 @@ After completing this SOP, the trainee should be able to:
 The AI Trainer should:
 
 - Explain the purpose of the Periodic Task Management System.
-- Demonstrate task creation for each frequency.
+- Demonstrate task creation for every supported frequency.
 - Explain when each frequency should be used.
-- Simulate common errors.
-- Ask practical questions before moving to the next lesson.
+- Simulate common user mistakes.
+- Ask practical questions before advancing to the next lesson.
+- Verify trainee understanding after each exercise.
 
 ---
 
 # 14. Assessment
 
-The trainee must successfully:
+The trainee must successfully complete the following:
 
-- Create one Weekly task.
-- Create one Monthly task.
-- Create one Quarterly task.
-- Create one Half-Yearly task (if applicable).
-- Create one Yearly task.
-- Verify each task in the Master sheet.
-- Explain the difference between each frequency.
+- Create one Weekly task
+- Create one Monthly task
+- Create one Quarterly task
+- Create one Half-Yearly task
+- Create one Yearly task
+- Verify each task in the Master sheet
+- Explain the difference between all supported frequencies
 
-Minimum Competency Level:
+**Minimum Competency Level**
 
 **Level 3 – Competent**
 
@@ -239,5 +246,9 @@ Minimum Competency Level:
 # Revision History
 
 | Version | Date | Changes |
-|----------|------|---------|
+|----------|------------|-------------------------------|
 | 1.0.0 | 17-Jul-2026 | Initial Periodic Task Management SOP created. |
+
+---
+**End of Document**
+```
