@@ -379,13 +379,365 @@ Effective communication is an essential responsibility of every MIS Executive. A
 
 Good communication improves operational efficiency, reduces errors, and supports better decision-making across the organization.
 ## End of Day Activities
+## End of Day Activities
 
+Before leaving the office, every MIS Executive must complete the following activities to ensure all critical work is completed and business operations can continue smoothly on the next working day.
+
+### Objective
+
+Complete all assigned work, verify business-critical systems, and provide accurate status updates to management.
+
+### End of Day Checklist
+
+#### 1. Complete Assigned Tasks
+- Finish all priority tasks assigned for the day.
+- Update the status of completed work.
+- Record any pending activities.
+
+#### 2. Verify Business Systems
+Before leaving, verify:
+
+- Master Spreadsheet
+- O2D Files
+- D2C Files
+- Purchase Files
+- Dashboards
+- Google Apps Scripts
+- AppSheet
+- DoubleTick WhatsApp
+- Runo Integration
+
+Ensure there are no critical issues affecting the next business day.
+
+#### 3. Share Daily Reports
+
+Prepare and share:
+
+- Today's Sales Order Report
+- Daily Work Report
+
+Verify all reports before sending.
+
+#### 4. Update Daily Checklist
+
+- Mark completed tasks.
+- Record pending work.
+- Add important notes if required.
+
+#### 5. Prepare for the Next Working Day
+
+- Note urgent follow-ups.
+- Record unresolved issues.
+- Inform the Reporting Manager about any critical pending work.
+
+### Business Impact
+
+A proper end-of-day process ensures:
+
+- Business continuity
+- Accurate reporting
+- Reduced operational risks
+- Better communication
+- Faster issue resolution
+
+### Best Practices
+
+- Never leave critical issues undocumented.
+- Verify reports before sharing.
+- Complete the checklist before logging out.
+- Inform management about major pending issues.
+  
+## Common Daily Issues
 ## Common Daily Issues
 
+During daily operations, an MIS Executive may encounter various business, technical, or data-related issues. The ability to identify, document, and respond to these issues quickly is an essential part of the role.
+
+### Common Issues
+
+| Category | Common Issue | Immediate Action |
+|----------|--------------|------------------|
+| Google Sheets | Formula errors (#REF!, #N/A, #VALUE!, etc.) | Verify formulas and refer to the relevant SOP |
+| Google Apps Script | Script execution failure | Check execution logs and verify triggers |
+| Dashboard | Dashboard not updating | Verify source data and refresh status |
+| Data Entry | Missing or duplicate records | Validate source data before updating |
+| O2D Process | Order information mismatch | Verify order details and follow the O2D SOP |
+| D2C Process | Payment information mismatch | Review payment records and follow the D2C SOP |
+| AppSheet | Synchronization issues | Check internet connectivity and app sync status |
+| DoubleTick | Message delivery failure | Verify integration and API status |
+| Runo Integration | Call data not updated | Check integration status and automation logs |
+| User Access | Permission denied | Verify user permissions or contact the administrator |
+
+### General Response Procedure
+
+Whenever an issue is identified:
+
+1. Understand the problem.
+2. Verify the affected system or data.
+3. Check the related SOP or documentation.
+4. Attempt basic troubleshooting if authorized.
+5. Escalate unresolved or critical issues to the Reporting Manager or Senior MIS Executive.
+6. Record recurring issues for future process improvement.
+
+### Issue Priority Levels
+
+| Priority | Description | Expected Action |
+|----------|-------------|-----------------|
+| High | Business-critical system failure | Immediate action and escalation |
+| Medium | Affects one process or department | Resolve as soon as possible |
+| Low | Minor issue with limited impact | Schedule for resolution |
+
+### Business Impact
+
+Failure to resolve daily issues promptly may result in:
+
+- Incorrect reports
+- Data inconsistencies
+- Delayed business operations
+- Reduced productivity
+- Customer service delays
+- Poor management decisions
+
+## Escalation Matrix
 ## Escalation Matrix
 
+The MIS Executive should attempt to resolve issues within their authorized responsibilities. If an issue cannot be resolved or has a significant business impact, it must be escalated through the appropriate reporting hierarchy.
+
+### Escalation Principles
+
+- Attempt basic troubleshooting before escalating.
+- Do not delay reporting critical business issues.
+- Provide complete information while escalating.
+- Record recurring issues for process improvement.
+
+### Escalation Matrix
+
+| Issue Type | First Action | Escalate To | Priority |
+|------------|-------------|-------------|----------|
+| Formula Errors | Verify and correct the formula | Senior MIS Executive | Medium |
+| Google Apps Script Failure | Check execution logs and triggers | Senior MIS Executive | High |
+| Dashboard Not Updating | Verify source data and refresh | Senior MIS Executive | High |
+| AppSheet Issues | Check synchronization and connectivity | Senior MIS Executive | High |
+| O2D Process Issue | Verify transaction data | Reporting Manager | High |
+| D2C Payment Issue | Verify payment records | Reporting Manager | High |
+| Purchase Process Issue | Verify purchase records | Reporting Manager | Medium |
+| DoubleTick WhatsApp Issue | Check integration status | Senior MIS Executive | Medium |
+| Runo Integration Issue | Verify automation status | Senior MIS Executive | Medium |
+| Data Access / Permission Issue | Verify user permissions | System Administrator / Reporting Manager | High |
+| Critical Business Impact | Inform immediately | Director / Management | Critical |
+
+### Information to Include During Escalation
+
+Whenever an issue is escalated, include:
+
+- Date and Time
+- System or File Name
+- Issue Description
+- Business Impact
+- Troubleshooting Already Performed
+- Screenshots (if available)
+- Expected Urgency
+
+### Business Impact Levels
+
+| Level | Description | Expected Response |
+|-------|-------------|------------------|
+| Low | Minor issue with limited impact | Resolve during normal working hours |
+| Medium | Affects one process or department | Resolve as soon as possible |
+| High | Impacts multiple business operations | Immediate attention required |
+| Critical | Stops major business operations | Immediate escalation to management |
+
+### Best Practices
+
+- Escalate early rather than waiting for the issue to become critical.
+- Always provide evidence (screenshots, logs, or error messages).
+- Keep stakeholders informed until the issue is resolved.
+- Document the root cause and final resolution for future reference.
+- 
+## Daily Checklist
 ## Daily Checklist
 
+The following checklist should be completed every working day to ensure all critical business systems, reports, and operational activities have been verified.
+
+### Morning Checklist
+
+- [ ] Login to official Google Workspace account.
+- [ ] Check important emails and management instructions.
+- [ ] Open all business-critical applications and files.
+- [ ] Verify internet connectivity and system availability.
+- [ ] Check Master Spreadsheet.
+- [ ] Verify O2D files.
+- [ ] Verify D2C files.
+- [ ] Check Purchase files.
+- [ ] Verify Credit Limit files.
+- [ ] Check Dashboards.
+- [ ] Verify Google Apps Script execution.
+- [ ] Check AppSheet synchronization.
+- [ ] Verify DoubleTick WhatsApp.
+- [ ] Verify Runo Integration.
+- [ ] Check Daily Checklist system.
+- [ ] Check Weekly/Monthly Checklist system.
+
+---
+
+### During the Day
+
+- [ ] Monitor business operations.
+- [ ] Support other departments.
+- [ ] Resolve formula and data issues.
+- [ ] Monitor automation status.
+- [ ] Update required master data.
+- [ ] Verify data accuracy before making changes.
+- [ ] Document important activities where required.
+
+---
+
+### End of Day Checklist
+
+- [ ] Verify all assigned work is completed.
+- [ ] Check pending issues.
+- [ ] Share Today's Sales Order Report.
+- [ ] Share Daily Work Report.
+- [ ] Update Daily Checklist.
+- [ ] Inform Reporting Manager about critical pending issues.
+- [ ] Verify all business-critical systems before logout.
+- [ ] Prepare pending work list for the next working day.
+
+---
+
+### Weekly Review
+
+At the end of every week, review:
+
+- Completed tasks
+- Pending issues
+- Recurring problems
+- Process improvements
+- Learning completed during the week
+
+---
+
+### Trainer Notes
+
+Every MIS Executive should develop the habit of following this checklist consistently. A disciplined daily routine reduces operational risks, improves reporting accuracy, and ensures smooth business operations.
+
+## Best Practices
 ## Best Practices
 
+The following best practices should be followed by every MIS Executive to maintain high standards of data quality, operational efficiency, and professional conduct.
+
+### Data Management
+
+- Always verify data before updating or sharing.
+- Maintain consistency in naming conventions and formats.
+- Avoid duplicate or unnecessary data entries.
+- Never delete business data without proper authorization.
+- Keep master data accurate and up to date.
+
+### Google Sheets & Automation
+
+- Check formulas before making structural changes.
+- Test scripts and automations before deploying changes.
+- Monitor scheduled triggers regularly.
+- Take backups before implementing major modifications.
+- Record significant automation changes for future reference.
+
+### Reporting
+
+- Verify reports before sharing.
+- Use the latest available business data.
+- Maintain consistent report formats.
+- Share reports within the defined timelines.
+- Inform management immediately if reporting is delayed.
+
+### Security & Confidentiality
+
+- Protect company data and confidential information.
+- Do not share internal files with unauthorized users.
+- Use official company accounts for business activities.
+- Follow company policies for data access and permissions.
+- Report any suspected security concerns immediately.
+
+### Communication
+
+- Communicate professionally and respectfully.
+- Verify information before responding to queries.
+- Keep stakeholders informed about important issues.
+- Escalate critical issues without unnecessary delay.
+- Maintain proper documentation for important discussions.
+
+### Continuous Learning
+
+- Learn new tools and technologies related to MIS.
+- Stay updated with company processes and SOPs.
+- Participate in training sessions and knowledge-sharing activities.
+- Document new learnings for future reference.
+- Continuously improve productivity and problem-solving skills.
+
+### Professional Behaviour
+
+- Be punctual and disciplined.
+- Take ownership of assigned responsibilities.
+- Maintain accuracy and attention to detail.
+- Support team members whenever required.
+- Always represent the organization professionally.
+
+### Trainer Notes
+
+Following these best practices consistently helps improve operational efficiency, data reliability, business decision-making, and overall organizational performance.
+
+
 ## Learning Outcome
+## Learning Outcomes
+
+After successfully completing this module, the trainee should be able to:
+
+### Knowledge Outcomes
+
+- Understand the role and responsibilities of an MIS Executive.
+- Explain the daily workflow followed at Prime Polymart.
+- Identify business-critical systems and their purpose.
+- Understand the importance of data accuracy, reporting, and business processes.
+- Recognize common operational risks and escalation procedures.
+
+### Practical Skills
+
+The trainee should be able to:
+
+- Perform the complete office opening routine independently.
+- Conduct the daily system health check.
+- Monitor Master Spreadsheet and related operational files.
+- Verify dashboards, reports, formulas, and automations.
+- Identify and report data inconsistencies.
+- Support other departments with business data.
+- Follow company SOPs during daily operations.
+- Prepare and share daily reports accurately.
+- Maintain data quality and operational discipline.
+
+### Problem-Solving Skills
+
+The trainee should be able to:
+
+- Identify common operational issues.
+- Perform basic troubleshooting.
+- Decide when an issue should be escalated.
+- Follow the appropriate escalation process.
+- Refer to the correct SOP for issue resolution.
+
+### Professional Behaviour
+
+The trainee should demonstrate:
+
+- Accuracy and attention to detail.
+- Professional communication.
+- Time management.
+- Accountability.
+- Continuous learning mindset.
+- Compliance with company policies and procedures.
+
+### Expected Competency Level
+
+Upon successful completion of this module, the trainee should be capable of independently performing routine MIS Executive responsibilities under normal business conditions while following company standards and reporting procedures.
+
+### Next Learning Module
+
+After completing this module, trainees should continue with the next module in the MIS Executive Training Program as defined in the Learning Path.
